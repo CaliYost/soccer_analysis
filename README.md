@@ -14,4 +14,5 @@ Analyzing goal trends.
 
 [Premier League](https://www.premierleague.com/)
 
-![Brentford_FC_crest svg](https://github.com/user-attachments/assets/0520cbf3-e405-44b9-99c5-25a4de1afd25)
+
+![pl-main-logo](https://github.com/user-attachments/assets/5473b6c3-e1bb-489c-baa5-00dfe0cff870)

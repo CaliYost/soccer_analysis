@@ -15,5 +15,6 @@ Analyzing goal trends.
 
 [Premier League](https://www.premierleague.com/)
 
-
 ![pl-main-logo](https://github.com/user-attachments/assets/5473b6c3-e1bb-489c-baa5-00dfe0cff870)
+
+![La Liga logo](https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg)

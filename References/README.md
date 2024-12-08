@@ -14,7 +14,7 @@ It is possible to create a new directory, but there are a couple of steps requir
 
 
 
-### You navigate to README.md in the References directory and press the trash icon:
+### You navigate to <mark>README.md</mark> in the <mark>References</mark> directory and press the trash icon:
 
 ![trash](https://github.com/user-attachments/assets/e3a629dc-601b-464e-b248-e401279d7a90)
 
